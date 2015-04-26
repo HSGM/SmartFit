@@ -6,9 +6,10 @@ Coursera Getting and Cleaning Data Course Project
 1.  Download the script run\_analysis.R to the working directory.
 
 2.  Download the raw data from
+
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 
-     to the working directory and unzip to obtain the following files:
+    to the working directory and unzip to obtain the following files:
 
     -   README.txt
     -   activity\_labels.txt
