@@ -9,7 +9,7 @@ Coursera Getting and Cleaning Data Course Project
 
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 
-    to the working directory and unzip to obtain the following files:
+to the working directory and unzip to obtain the following files:
 
     -   README.txt
     -   activity\_labels.txt
